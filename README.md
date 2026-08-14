@@ -4,7 +4,7 @@ A simple weather application built using **React.js** that shows the current wea
 
 ## 🚀 Live Demo
 
-[Weather App](https://weather-app-sigma-one-77.vercel.app/)
+[Weather App](https://weatherappfor.vercel.app/)
 
 ## 🛠️ Technologies Used
 
