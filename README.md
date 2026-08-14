@@ -1,8 +1,62 @@
-# React + Vite
+# Weather App 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple weather application built using **React.js** that shows the current weather information of a city.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Weather App](https://weather-app-sigma-one-77.vercel.app/)
+
+## 🛠️ Technologies Used
+
+* React.js
+* Vite
+* JavaScript
+* Material UI
+* OpenWeather API
+
+## ✨ Features
+
+* Search weather by city name
+* Shows temperature
+* Shows humidity
+* Shows minimum and maximum temperature
+* Shows weather condition
+* Responsive UI
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/nishant1800/Weather-App.git
+```
+
+Go to the project folder:
+
+```bash
+cd Weather-App
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## 🌐 Deployment
+
+The project is hosted on **Vercel**.
+
+**Live:** https://weatherappfor.vercel.app/
+
+## 👨‍💻 Author
+
+**Nishant Ranjan**
+
+GitHub: https://github.com/nishant1800
